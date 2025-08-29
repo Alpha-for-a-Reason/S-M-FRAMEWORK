@@ -197,4 +197,4 @@ if __name__ == "__main__":
 - Incorporate computer vision (via OCR) to "read" and react to images
 - Simulate daily usage patterns (e.g., more active at certain times)
 
-🥶 My codes are 90-95% RAW, can't publish full Code/Programme due to security reasons, Just use your 10%  after that you'll be able to run the Programme.
+🥶 My codes are 90-95% RAW, can't publish full Code/Programme due to security reasons, Just use your 10% 🧠, after that you'll be able to run the Programme.
